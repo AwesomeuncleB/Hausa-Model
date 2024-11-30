@@ -21,7 +21,7 @@ This repository contains a Streamlit application for transcribing Hausa audio fi
   pip install streamlit torch transformers librosa numpy
 
   git clone https://github.com/AwesomeuncleB/hausa-whisper-transcription.git
-cd hausa-whisper-transcription
-streamlit run app.py
+- cd hausa-whisper-transcription
+- streamlit run app.py
 
 
